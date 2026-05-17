@@ -1,0 +1,137 @@
+.img-space {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+iframe {
+    display: block;
+    margin: auto;
+    border: none;
+}
+.metà {
+    width: 50%;
+}
+#margineBody {
+    padding: 20px;
+}
+#margineBody table {
+    width: 100%;
+    border-collapse: collapse;
+}
+#margineBody td {
+    padding: 15px;
+    border: 1px solid #1e3a5f;
+    vertical-align: middle;
+}
+span {
+    font-weight: bold;
+    color: #00bfff;
+}
+body {
+    background-color: #0a0a1a;
+    font-family: 'Exo 2', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#header {
+    background-color: #0d1b2a;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 2em;
+    letter-spacing: 4px;
+    font-family: 'Orbitron', sans-serif;
+}
+#menu {
+    background-color: #1a1a2e;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+#menu td {
+    text-align: center;
+    padding: 0;
+    vertical-align: middle;
+}
+#menu img {
+    vertical-align: middle;
+}
+#menu a {
+    color: #00bfff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    display: block;
+    padding: 12px 0;
+}
+#menu a:hover {
+    color: white;
+    background-color: #2a2a4e;
+}
+h1 {
+    color: #00bfff;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+.testo {
+    color: #cccccc;
+    text-align: justify;
+}
+#footer {
+    background-color: #0d1b2a;
+    color: white;
+    text-align: center;
+    padding: 20px;;
+}
+.imgFooter {
+    width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#tabellaStazioni {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Exo 2', sans-serif;
+}
+#tabellaStazioni th {
+    background-color: #1a1a2e;
+    color: #00bfff;
+    padding: 12px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.85em;
+    letter-spacing: 2px;
+    border: 1px solid #1e3a5f;
+}
+#tabellaStazioni td {
+    color: #cccccc;
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #1e3a5f;
+}
+#tabellaStazioni tr:hover td {
+    background-color: #0d1b2a;
+}
+.didascalia {
+    color: #00bfff;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.7em;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.box-img {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.area-img {
+    height: 195px;
+    display: block;
+}
